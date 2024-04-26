@@ -1,2 +1,2 @@
 # Bug-Report-Template
-This is the bug reporting template.
+[BUG REPORT.docx](https://github.com/vsharma638812/Bug-Report-Template/files/15125448/BUG.REPORT.docx)
